@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Nutritional Epidemiology
 - 👯 I’m looking to collaborate on ... Data analysis and statistical methods
 - 🤔 I’m looking for help with ... SAS
-- 💬 Ask me about ... Software development, Git workflow, computers
+- 💬 Ask me about ... Software design, Git workflow, computers
 - 📫 How to reach me: ... \[redacted\]
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am the DM of a weekly D&D campaign that's going on 4 years strong!
