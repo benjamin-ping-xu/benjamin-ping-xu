@@ -7,7 +7,7 @@
 - 💬 Ask me about ... Software design, Git workflow, computers
 - 📫 How to reach me: ... \[redacted\]
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I am the DM of a weekly D&D campaign that's going on 4 years strong!
+- ⚡ Fun fact: ... I am the DM of a weekly D&D campaign that's going on 5 years strong!
 <!--
 **benjamin-ping-xu/benjamin-ping-xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
